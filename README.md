@@ -1,7 +1,5 @@
 
 
-
-
 # Image Processing with OpenCV
 
 This Python program processes an image to detect edges and contours using OpenCV and displays the results using Matplotlib.
